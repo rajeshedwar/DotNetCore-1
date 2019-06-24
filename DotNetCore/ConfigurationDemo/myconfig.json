@@ -1,0 +1,13 @@
+{
+    "Developer":
+    {
+        "Name":"Siva",
+        "Domain":"Dot Net",
+        "Experience":9,
+        "Address":{
+            "No":1212,
+            "City":"Chennai",
+            "State":"TamilNadu"
+        }
+    }
+}

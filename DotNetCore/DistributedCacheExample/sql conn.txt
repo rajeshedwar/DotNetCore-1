@@ -1,0 +1,4 @@
+dotnet sql-cache create "Data Source=172.25.163.79;Initial Catalog=CacheDBTest;User ID=sa1;Password=Password123" dbo CacheTable
+
+
+Data Source=172.25.163.79;Initial Catalog=EventDB;User ID=sa1;Password=***********

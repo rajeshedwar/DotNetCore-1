@@ -6,8 +6,61 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="ConfigurationDemo\.vs\ProjectSettings.json" />
+    <Content Include="ConfigurationDemo\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ConfigurationDemo\.vs\ConfigurationDemo\v15\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ConfigurationDemo\.vs\slnx.sqlite" />
+    <None Include="ConfigurationDemo\ConfigurationDemo.csproj" />
+    <None Include="DependencyInjectionDemo\.vs\config\applicationhost.config" />
+    <None Include="DependencyInjectionDemo\.vs\DependencyInjectionDemo\DesignTimeBuild\.dtbcache" />
+    <None Include="DependencyInjectionDemo\.vs\DependencyInjectionDemo\v15\Server\sqlite3\db.lock" />
+    <None Include="DependencyInjectionDemo\.vs\DependencyInjectionDemo\v15\Server\sqlite3\storage.ide" />
+    <None Include="DependencyInjectionDemo\.vs\DependencyInjectionDemo\v15\Server\sqlite3\storage.ide-shm" />
+    <None Include="DependencyInjectionDemo\.vs\DependencyInjectionDemo\v15\Server\sqlite3\storage.ide-wal" />
+    <None Include="DependencyInjectionDemo\DependencyInjectionDemo.sln" />
+    <None Include="DependencyInjectionDemo\DependencyInjectionDemo\DependencyInjectionDemo.csproj" />
+    <None Include="DistributedCacheExample\.vs\config\applicationhost.config" />
+    <None Include="DistributedCacheExample\.vs\DistributedCacheExample\v15\Server\sqlite3\db.lock" />
+    <None Include="DistributedCacheExample\.vs\DistributedCacheExample\v15\Server\sqlite3\storage.ide" />
+    <None Include="DistributedCacheExample\DistributedCacheExample.sln" />
+    <None Include="DistributedCacheExample\DistributedCacheExample\DistributedCacheExample.csproj" />
+    <None Include="EmptyWebDemo\EmptyWebDemo.csproj" />
+    <None Include="EventAPI\.vs\config\applicationhost.config" />
+    <None Include="EventAPI\.vs\EventAPI\v15\Server\sqlite3\db.lock" />
+    <None Include="EventAPI\.vs\EventAPI\v15\Server\sqlite3\storage.ide" />
+    <None Include="EventAPI\.vs\EventAPI\v15\Server\sqlite3\storage.ide-shm" />
+    <None Include="EventAPI\.vs\EventAPI\v15\Server\sqlite3\storage.ide-wal" />
+    <None Include="EventAPI\EventAPI.sln" />
+    <None Include="EventAPI\EventAPI\EventAPI.csproj" />
+    <None Include="EventAPI\EventAPI\EventAPI.csproj.user" />
+    <None Include="FirstWebApp\FirstWebApp.csproj" />
+    <None Include="IdentityAPI\.vs\config\applicationhost.config" />
+    <None Include="IdentityAPI\.vs\IdentityAPI\v15\Server\sqlite3\db.lock" />
+    <None Include="IdentityAPI\.vs\IdentityAPI\v15\Server\sqlite3\storage.ide" />
+    <None Include="IdentityAPI\.vs\IdentityAPI\v15\Server\sqlite3\storage.ide-shm" />
+    <None Include="IdentityAPI\.vs\IdentityAPI\v15\Server\sqlite3\storage.ide-wal" />
+    <None Include="IdentityAPI\IdentityAPI.sln" />
+    <None Include="IdentityAPI\IdentityAPI\IdentityAPI.csproj" />
+    <None Include="IdentityAPI\IdentityAPI\IdentityAPI.csproj.user" />
+    <None Include="MVCApp\.vs\config\applicationhost.config" />
+    <None Include="MVCApp\.vs\MVCApp\v15\Server\sqlite3\db.lock" />
+    <None Include="MVCApp\.vs\MVCApp\v15\Server\sqlite3\storage.ide" />
+    <None Include="MVCApp\.vs\MVCApp\v15\Server\sqlite3\storage.ide-shm" />
+    <None Include="MVCApp\.vs\MVCApp\v15\Server\sqlite3\storage.ide-wal" />
+    <None Include="MVCApp\MVCApp.sln" />
+    <None Include="MVCApp\MVCApp\MVCApp.csproj" />
+    <None Include="MVCApp\MVCApp\MVCApp.csproj.user" />
   </ItemGroup>
 
 </Project>
